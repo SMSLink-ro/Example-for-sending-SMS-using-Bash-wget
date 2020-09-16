@@ -16,7 +16,7 @@ The [complete documentation](https://www.smslink.ro/sms-gateway-documentatie-sms
 
 ## System Requirements
 
-[GNU Wget](https://www.gnu.org/software/wget/), Wget is written in portable C and can be installed on most Unix-like system. Wget has been ported to Microsoft Windows, Mac OS X, OpenVMS, HP-UX, MorphOS and AmigaOS
+[GNU Wget](https://www.gnu.org/software/wget/). Wget is written in portable C and can be installed on most Unix-like system. Wget has been ported to Microsoft Windows, Mac OS X, OpenVMS, HP-UX, MorphOS and AmigaOS
 
 ## Additional modules and integrations
 
